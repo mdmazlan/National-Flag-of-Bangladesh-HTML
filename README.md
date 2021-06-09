@@ -1,5 +1,5 @@
 <br />
-<p align="center">
+<p>
   <h1 align="center"> National Flag of Bangladesh HTML </h1>
     <br />
     <a href="https://mdmazlan.github.io/National-Flag-of-Bangladesh-HTML">Design Preview Live</a>
